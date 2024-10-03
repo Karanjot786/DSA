@@ -48,19 +48,17 @@ Create/Upload your code in the folder following the convention `Add Code Here`
 - Choose an extract language folder `drop your code`
 - Below is `an example` to add file properly
 - You can follow up `any languages`
-```
+
 /PYTHON/<YOUR-FILERNAME>.py
-```
-```
+
 /C++/<YOUR-FILERNAME>.cpp
-```
+
 You can follow any pathway a `code` or `profile information`
 
 ## 2. Wait for Pull Request to merge
 
 ## 3. Celebrate - you've done your first pull request!!
 
-```py
 '''
 Always make more than 4 pull requests.
 Let's say you have made only 4 pull requests to different projects,
@@ -74,7 +72,7 @@ Keep in mind that the repo has hacktoberfest topic.
 
 ## + Follow Me : } Quick Approval of Pull Request
 
-```py
+```html
 '''
 To get approval of the pull request much quicker and faster (`Follow Me`)🚀
 '''
