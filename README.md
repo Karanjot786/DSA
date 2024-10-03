@@ -84,16 +84,15 @@ Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** 
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/Karanjot786/DSA/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Karanjot786/DSA" />
+<a href="https://github.com/karanjot786/DSA/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=karanjot786/DSA" />
 </a>
-		</td>
+</td>
 	</tr>
 </table>
 <h2 align=center> 🌟 Stargazers Over Time 🌟 </h2>
 
-[![Stargazers over time](https://starchart.cc/Karanjot786/DSA.svg)](https://starchart.cc/Karanjot786/DSA)
-
+[![Stargazers over time](https://starchart.cc/Karanjot786/DSA.svg?variant=adaptive)](https://starchart.cc/Karanjot786/DSA)
 <h2 align=center> Owned by </h2>
 
 <tr><td align="center"><a href="https://github.com/Karanjot786"><kbd><img src="https://avatars3.githubusercontent.com/Karanjot786?size=100" width="100px;" alt=""/>
